@@ -1,16 +1,54 @@
-# y_water_monitor
+# 💧 Water Monitor Application
 
-A new Flutter project.
+* This is a useful and user-friendly mobile application built to track daily water intake.  
+* It calculates whether the amount of water consumed is sufficient for the user's body based on the height, number of times water is consumed, and the quantity consumed each time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📏 Input user's height
+- 🥤 Record number of times water is consumed
+- 💧 Input quantity of water consumed each time
+- 📊 Calculate and display whether the water intake is sufficient
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+<div align="center">
+  <img src="Screenshots/HomeScreen.jpg" alt="Home Screen" width="250" style="margin-right: 50px;"/> 
+  
+  <img src="Screenshots/ResultScreen.jpg" alt="ResultScreen" width="250"/>
+</div>
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+* git clone https://github.com/SanthoshKumar-PS/water_monitor.git
+* cd water_monitor
+2. **Install dependencies:**
+* flutter pub get
+3. **Run the app:**
+* flutter run
+
+---
+
+
+## 🛠️ Tech Stack
+* Flutter
+* Dart
+* Android Studio
+
+---
+
+
+## 🙋‍♂️ Author
+**Santhosh Kumar P S**
+
+📧 Email: santhoshkumarsakthi2003@gmail.com
+
+📱 Phone: +91 9597889163
+
