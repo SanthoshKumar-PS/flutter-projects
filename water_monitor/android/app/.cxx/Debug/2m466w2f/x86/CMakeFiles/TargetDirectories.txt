@@ -1,0 +1,2 @@
+C:/Users/Admin/StudioProjects/y_water_monitor/android/app/.cxx/Debug/2m466w2f/x86/CMakeFiles/edit_cache.dir
+C:/Users/Admin/StudioProjects/y_water_monitor/android/app/.cxx/Debug/2m466w2f/x86/CMakeFiles/rebuild_cache.dir
