@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except this folder
+!y_climateapp/
+
+# Also don't ignore the .gitignore file itself
+!.gitignore
