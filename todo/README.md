@@ -19,6 +19,30 @@ A sleek, intuitive mobile application for managing your daily tasks, Taskly is b
 👤 Sidebar drawer for profile viewing and logout.
 
 ---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/RegisterPage.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Login.jpg" alt="Screen 2" width="150"/>&emsp;&emsp;
+  <img src="screenshots/Dashboard.jpg" alt="Screen 3" width="150"/>&emsp;&emsp;
+  <img src="screenshots/TodoPage.jpg" alt="Screen 2" width="150"/>
+</div>
+
+
+<div align="center">
+  <img src="screenshots/Create.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Dashboard2.jpg" alt="Screen 2" width="150"/>&emsp;&emsp;
+  <img src="screenshots/TaskCreated.jpg" alt="Screen 3" width="150"/>&emsp;&emsp;
+  <img src="screenshots/Login.jpg" alt="Screen 2" width="150"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/Loading.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Sidebar.jpg" alt="Screen 2" width="150"/>
+</div>
+
+---
 ## 🚀 Getting Started
 Follow these steps to get Taskly up and running on your local machine.
 
