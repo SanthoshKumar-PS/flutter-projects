@@ -1,0 +1,72 @@
+POST http://localhost:500/signuser/login
+Content-Type: application/json
+
+{
+    "email": "santhosh@usa.in",
+    "password":"google"
+}
+###
+
+POST http://localhost:500/signuser/register
+Content-Type: application/json
+
+{
+    "email": "santhoshkumar",
+    "name":"Santhosh",
+    "password":"123"
+}
+
+
+###
+
+POST http://localhost:500/Todo/addNewTodo
+Content-Type: application/json
+
+{
+    "userId":"6831b3fb9c7037ed73cd8d35",
+    "category":"Personal",
+    "title":"Go ",
+    "description":"Learn about life",
+    "notes":"yes notes"
+}
+
+###
+GET  http://localhost:500/UserTodos/fetchUserTodos?userId=6839d69a4f4b05d84e544b50
+
+
+###
+DELETE http://localhost:500/delete/deleteUserTodo
+Content-Type: application/json
+
+{
+    "todoId": "683d83cabdc003d855d8ac37"
+}
+
+###
+DELETE http://localhost:500/delete/deleteUserTodo?todoId=683a95288c97fb5f607af79e
+
+###
+PUT http://localhost:500/update/updateByUserIdtodoId
+Content-Type: application/json
+
+{
+    "id":"683d8358f33249046b0c0f0a",
+    "userId":"6839d69a4f4b05d84e544b50",
+    "status":"completed"
+}
+
+
+###
+GET http://localhost:500/profile
+Content-Type: application/json
+Authorization: : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODM0NjVmNTc4MTcyNjBmZTRkNDljZGYiLCJlbWFpbCI6ImxvZ2luQHNycy5pbiIsImlhdCI6MTc0ODI2NDQzNywiZXhwIjoxNzQ4MjY4MDM3fQ.afQ_fqZ26NVF89ioKC_rxOpbpZppo1sg0KT3tqdoKDI,
+
+
+###
+PUT http://localhost:500/add/newuser
+Content-Type: application/json
+
+{
+    "email":"kottai_mariyamman_aait",
+    "password":"santhosh"
+}
