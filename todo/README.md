@@ -23,23 +23,24 @@ A sleek, intuitive mobile application for managing your daily tasks, Taskly is b
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/RegisterPage.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
-  <img src="screenshots/Login.jpg" alt="Screen 2" width="150"/>&emsp;&emsp;
-  <img src="screenshots/Dashboard.jpg" alt="Screen 3" width="150"/>&emsp;&emsp;
-  <img src="screenshots/TodoPage.jpg" alt="Screen 2" width="150"/>
+  <img src="screenshots/RegisterPage.jpg" alt="Register Page" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Login.jpg" alt="Login Page" width="150"/>&emsp;&emsp;
+  <img src="screenshots/Dashboard.jpg" alt="Dashboard" width="150"/>&emsp;&emsp;
+  <img src="screenshots/TodoPage.jpg" alt="TodoPage" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Loading.jpg" alt="Loading Page" width="150"/>
+
 </div>
 
 
 <div align="center">
-  <img src="screenshots/Create.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
-  <img src="screenshots/Dashboard2.jpg" alt="Screen 2" width="150"/>&emsp;&emsp;
-  <img src="screenshots/TaskCreated.jpg" alt="Screen 3" width="150"/>&emsp;&emsp;
-  <img src="screenshots/Login.jpg" alt="Screen 2" width="150"/>
+  <img src="screenshots/Create.jpg" alt="Create" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Dashboard2.jpg" alt="Dashboard" width="150"/>&emsp;&emsp;
+  <img src="screenshots/TaskCreated.jpg" alt="Task Created" width="150"/>&emsp;&emsp;
+  <img src="screenshots/Sidebar.jpg" alt="Sidebar" width="150"/>&emsp;&emsp;
+  <img src="screenshots/Completed.jpg" alt="Completed Page" width="150"/>
 </div>
 
 <div align="center">
-  <img src="screenshots/Loading.jpg" alt="Screen 1" width="150"/>&emsp;&emsp; 
-  <img src="screenshots/Sidebar.jpg" alt="Screen 2" width="150"/>
 </div>
 
 ---
