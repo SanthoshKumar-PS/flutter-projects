@@ -18,14 +18,14 @@
 
 <div align="center">
   <img src="screenshots/LoadingPage.jpg" alt="Loading Page" width="250" /> &emsp;&emsp; 
-  <img src="screenshots/HomePage.jpg" alt="Home Page" width="250" />&emsp;&emsp; 
-    <img src="screenshots/SearchPage.jpg" alt="Search Page" width="250" ; 
+  <img src="screenshots/HomePage.jpg" alt="Home Page" width="250" /> &emsp;&emsp; 
+  <img src="screenshots/SearchPage.jpg" alt="Search Page" width="250" />
 </div>
 
 <div align="center">
   <img src="screenshots/Result1.jpg" alt="Result Page" width="250" /> &emsp;&emsp; 
-  <img src="screenshots/Search2.jpg" alt="Search page" width="250" />&emsp;&emsp; 
-    <img src="screenshots/Result2.jpg" alt="Result Page" width="250" ; 
+  <img src="screenshots/Search2.jpg" alt="Search Page" width="250" /> &emsp;&emsp; 
+  <img src="screenshots/Result2.jpg" alt="Result Page" width="250" />
 </div>
 
 ---
