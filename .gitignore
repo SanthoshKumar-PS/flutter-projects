@@ -3,6 +3,7 @@
 
 # Except this folder
 !y_climateapp/
+!todo/
 
 # Also don't ignore the .gitignore file itself
-!.gitignore
+#!.gitignore
