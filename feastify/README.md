@@ -32,8 +32,8 @@ Track your previous orders and manage your personal profile.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/One.jpg" alt="One" width="150"/>&emsp;&emsp; 
-  <img src="screenshots/Two.jpg" alt="Two" width="150"/>&emsp;&emsp;
+<!--   <img src="screenshots/One.jpg" alt="One" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/Two.jpg" alt="Two" width="150"/>&emsp;&emsp; -->
   <img src="screenshots/Three.jpg" alt="Three" width="150"/>&emsp;&emsp;
   <img src="screenshots/Four.jpg" alt="Four" width="150"/>&emsp;&emsp;
   <img src="screenshots/Five.jpg" alt="Five" width="150"/>&emsp;&emsp;
