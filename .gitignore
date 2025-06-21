@@ -8,6 +8,8 @@
 !todo/**
 !feastify/
 !feastify/**
+!attendance_tracking/
+!attendance_tracking/**
 
 # Also don't ignore the .gitignore file itself
 #!.gitignore
