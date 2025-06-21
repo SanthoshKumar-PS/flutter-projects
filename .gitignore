@@ -6,6 +6,8 @@
 !y_climateapp/**
 !todo/
 !todo/**
+!feastify/
+!feastify/**
 
 # Also don't ignore the .gitignore file itself
 #!.gitignore
