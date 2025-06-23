@@ -12,5 +12,6 @@
 !attendance_tracking/**
 !portfolio/
 !portfolio/**
+!netlify.toml
 # Also don't ignore the .gitignore file itself
 #!.gitignore
