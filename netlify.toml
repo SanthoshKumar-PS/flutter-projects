@@ -1,8 +1,0 @@
-# netlify.toml
-[build]
-base = "portfolio"
-publish = "build/web"
-command = "flutter build web"
-
-[[plugins]]
-package = "netlify-plugin-flutter"
