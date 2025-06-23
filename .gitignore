@@ -10,6 +10,7 @@
 !feastify/**
 !attendance_tracking/
 !attendance_tracking/**
-
+!portfolio/
+!portfolio/**
 # Also don't ignore the .gitignore file itself
 #!.gitignore
