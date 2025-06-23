@@ -149,8 +149,6 @@ class _MobileScaffoldState extends State<MobileScaffold> {
     final remainingHeight = screenHeight - appBarHeight;
     bool isTabletSize= screenWidth<715;
     //Below is for devices with very small width <=715
-    print("Mobile Scaffold");
-    print("Height ${remainingHeight} Width ${screenWidth}");
     return Scaffold(
       key: _scaffoldKey, // Add this
       backgroundColor: Colors.red,
