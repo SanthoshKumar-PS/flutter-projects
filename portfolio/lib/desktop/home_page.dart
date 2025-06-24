@@ -53,7 +53,7 @@ class HomePageImage extends StatelessWidget {
     return CircleAvatar(
       minRadius: MediaQuery.of(context).size.width*0.10,
       maxRadius: MediaQuery.of(context).size.width*0.10,
-      backgroundImage: NetworkImage('assets/images/profile.jpg'),
+      backgroundImage: AssetImage('assets/images/profile.jpg'),
     );
   }
 }
