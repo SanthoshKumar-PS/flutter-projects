@@ -69,7 +69,7 @@ class _ProjectCardState extends State<ProjectCard> {
                     ),
                     child: Image(
                       image: AssetImage(widget.imagePath),
-                      fit: BoxFit.fill,
+                      fit: BoxFit.contain,
                     ),
                   )
               ),
